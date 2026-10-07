@@ -9,6 +9,16 @@
     <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Building a Simple Feed Reader</title>
+      <link>https://example.com/posts/simple-feed-reader</link>
+      <description>Step by step: fetch, parse, and display RSS items in a minimal web app.</description>
+      <author>editor@example.com (Jane Doe)</author>
+      <category>Programming</category>
+      <pubDate>Wed, 07 Oct 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/posts/simple-feed-reader</guid>
+    </item>
+
+    <item>
       <title>Validating Feeds Before Publishing</title>
       <link>https://example.com/posts/validating-feeds</link>
       <description>Tips for catching malformed XML and missing required elements before your feed goes live.</description>
