@@ -9,6 +9,26 @@
     <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Validating Feeds Before Publishing</title>
+      <link>https://example.com/posts/validating-feeds</link>
+      <description>Tips for catching malformed XML and missing required elements before your feed goes live.</description>
+      <author>editor@example.com (Jane Doe)</author>
+      <category>Tutorials</category>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/posts/validating-feeds</guid>
+    </item>
+
+    <item>
+      <title>Atom vs RSS: Which Should You Use?</title>
+      <link>https://example.com/posts/atom-vs-rss</link>
+      <description>A quick comparison of the two most common syndication formats.</description>
+      <author>editor@example.com (John Smith)</author>
+      <category>Opinion</category>
+      <pubDate>Wed, 07 Oct 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/posts/atom-vs-rss</guid>
+    </item>
+
+    <item>
       <title>Getting Started with RSS Feeds</title>
       <link>https://example.com/posts/getting-started-with-rss</link>
       <description>An introduction to RSS feeds and how to consume them in your applications.</description>
